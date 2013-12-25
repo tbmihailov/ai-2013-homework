@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace AI.Graphs.Tests
 {
     [TestClass]
-    public class SearchHelpers_Test
+    public class SearchHelpers_BFS_Tests
     {
         /// <summary>
         /// New graph root int node from wikipedia sample http://en.wikipedia.org/wiki/Breadth-first_search
