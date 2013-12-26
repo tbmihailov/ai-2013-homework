@@ -50,8 +50,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="SearchHelpers_DFS_Tests.cs" />
     <Compile Include="SearchHelpers_BFS_Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ListHelpers.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AI.Graphs\AI.Graphs.csproj">
