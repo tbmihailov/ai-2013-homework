@@ -1,4 +1,4 @@
-ai-graphs - Homework for Artificial Intelligence Course - FMI-2013
+ai-graphs - AI Homework - FMI-2013
 ================
 
-Artificial Intelligence Course Homework
+Homework for Artificial Intelligence Course - FMI-2013
